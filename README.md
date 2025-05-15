@@ -1,23 +1,22 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hoja de Vida - David Arroyave</title>
+  <title>Hoja de Vida - Tu Nombre</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 text-gray-800">
   <div class="max-w-4xl mx-auto bg-white shadow-md rounded p-8 mt-10">
     <header class="mb-6">
-      <h1 class="text-4xl font-bold text-blue-700">Jesús David Gutiérrez Arroyave</h1>
+      <h1 class="text-4xl font-bold text-blue-700">Tu Nombre Completo</h1>
       <p class="text-lg text-gray-600">Desarrollador Full Stack</p>
       <p class="text-sm text-gray-500">Correo: tu@email.com | Tel: 123-456-7890</p>
     </header>
 
     <section class="mb-6">
       <h2 class="text-2xl font-semibold text-gray-700 border-b pb-1 mb-2">Perfil Profesional</h2>
-      <p>Soy un desarrollador con experiencia en el diseño y desarrollo de aplicaciones web utilizando tecnologías modernas como Laravel, Spring Boot y MongoDB. Me destaco por mi capacidad de aprendizaje continuo y trabajo en equipo.</p>
+      <p>Soy un desarrollador con experiencia en el diseño y desarrollo de aplicaciones web utilizando tecnologías modernas. Me destaco por mi capacidad de aprendizaje y trabajo en equipo.</p>
     </section>
 
     <section class="mb-6">
